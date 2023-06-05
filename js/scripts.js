@@ -9,7 +9,7 @@ window.onload = function () {
     const li2 = document.createElement("li");
     const h2 = document.createElement("h2");
     const a = document.createElement("a");
-    const h1 = document.createElement("h1");
+    const h1 = document.createElement("h1")
     const secondH1 = document.createElement("h1");
 
     
@@ -43,5 +43,4 @@ window.onload = function () {
     a.href = "https://en.wikipedia.org/wiki/Multicolored_tanager";
 
     body.append(a);
-
 };
